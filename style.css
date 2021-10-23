@@ -1,0 +1,32 @@
+body {
+    text-align:center;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#marquee style {
+    background-color: aqua;
+    color: black;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top:0px;
+    z-index:99999;
+}
+
+#map iframe {
+    width: 200%; 
+}
+
+
+.achievement {
+    padding:10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+  font-size:22px; 
+  background-color: aqua;
+} 
